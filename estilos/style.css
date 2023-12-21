@@ -1,0 +1,128 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poiret One', sans-serif;
+    font-family: 'Sulphur Point', sans-serif;
+    font-family: 'Unbounded', sans-serif;
+    background-color: rgb(194, 172, 206); 
+    max-width: 980px; 
+    margin:0 auto;
+}
+
+.barra{ 
+background-color: rgb(171, 135, 204) !important;
+}
+
+.letra >li >a{
+color: white;
+}
+
+nav ul li:hover{
+background-color:rgb(126, 99, 151);
+}
+
+.img-logo{
+width: 100px;
+padding:15px;
+padding-right: 3%;
+}
+
+nav ul{
+    padding-top: 10px;
+    display: inline-flex;
+    position: relative;
+    top:-30px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:white
+}
+h2, figure,ul {
+    margin:0;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.imagencarrusel{
+    position: center;
+}
+
+.seccion1 {
+ background-color: rgb(184, 146, 219);
+ color: black;
+}
+.seccion{
+    padding-inline: 10%;
+    margin: 2;
+}
+
+.video{
+    width: 50%;
+    padding: 10px;
+}
+.texto{
+    width: 30%;
+    padding: 10px;
+    vertical-align:top;
+}
+article{
+    padding: 30px;
+}
+article h2{
+    border-bottom:2px solid  rgb(196, 51, 171)  ;
+}
+.texto,video {
+display:inline-block ;
+color: black;
+}
+.boton{
+    text-align: center;
+    background-color: rgb(193, 156, 228);
+    padding: 10px;
+}
+.boton a{
+    text-decoration: none;
+    color: rgb(136, 24, 24);
+}
+.boton:hover{
+    background:cornflowerblue ;
+}
+section{
+    background-color:white;
+    text-align: center;
+    padding: 15px;
+}
+section h2{
+    border-bottom:2px solid  rgb(196, 51, 171)  ;
+}
+.img-art{
+    max-width: 100%;
+}
+.texto-art{
+    width: 100%;
+    vertical-align:top;
+    text-align: center;
+}
+.texto, figure {
+    display: inline-flex;
+}
+
+.page-footer {
+    background-color: #371057;
+    color: #ccc;
+    padding: 20px 20px;
+    }
+    .footer-copyright {
+    color: #666;
+    padding: 20px ;
+    }
+
+.marcapersonal{
+    border-color: #371057 !important;
+    width: 100%;
+    background-color: #6212a3 !important;
+
+}
+    

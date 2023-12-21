@@ -1,0 +1,32 @@
+
+.color1{
+background-color: rgb(194, 49, 199) !important;
+border:white ;
+}
+
+.color2{
+background-color: rgb(85, 85, 228);
+border: white ;
+text-align: white;
+ 
+    }
+  
+.color1-color2{
+border: 2px;
+width: auto;
+height:350px;
+}
+
+.anchocontenedor{
+    width: 100%;
+    height: auto;
+   padding: auto;
+   margin: auto;
+}
+
+.boton{
+    text-align: center;
+    background-color: rgb(193, 156, 228);
+    padding: 15px;
+
+}

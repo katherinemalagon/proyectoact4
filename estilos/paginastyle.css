@@ -1,0 +1,81 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poiret One', sans-serif;
+    font-family: 'Sulphur Point', sans-serif;
+    font-family: 'Unbounded', sans-serif;
+    background-color: rgb(194, 172, 206); 
+    max-width: 980px; 
+    margin:0 auto;
+}
+h2{
+    margin: 0;
+}
+
+nav{
+    padding-top: 10px;
+    display: inline-flex;
+    position: relative;
+    top:-30px;
+}
+.barra{ 
+    background-color: rgb(171, 135, 204) !important;
+    }
+
+.seccion1 {
+    background-color: rgb(59, 29, 87);
+    color: white;
+}
+
+    .video{
+        width: 60%;
+        padding: 10px;}
+    
+     .texto{
+            width: 20%;
+            padding: 10px;
+            vertical-align:top;
+        color: white;}
+
+    .texto,video {
+            display:inline-block ;
+            color: white;}
+
+    .page-footer {
+         background-color: #371057;
+         color: #ccc;
+        padding: 20px 20px;
+                }
+    .footer-copyright {
+         color: #666;
+         padding: 20px ;
+                }
+    .formulario {
+         border-color: #371057;
+         background:#406ab9 !important;}
+
+     .textoseccion{
+           padding: 20px;
+           margin: 10px;
+           align-self: center;}
+    
+    .colortexto{
+        color: black !important;
+    }
+    .imagencarrusel{
+        position: center;
+    }
+    .seccion2{
+        background-color: aqua;
+    }
+
+     .textoseccion{
+           padding: 20px;
+           margin: 10px;
+           align-self: center;}
+    
+    .colortexto{
+        color: black !important;
+    }
+    .imagencarrusel{
+        position: center;
+    }
